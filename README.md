@@ -12,11 +12,13 @@ For this project we created HTML page that will allow us to pull up information 
 
 ## HTML Page 
 When the HTML/website is opened, our client will see the title with the picture at the top and some facts. As the client scrolls down they will begin to see all the data and filters that we have created. Five different filters to choose from: the date, city, state, country & shape. You can choose any of these filters to fill in at the search bar, then the HTML page will show all of the sightings for that specific search. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
+![HTML page](https://user-images.githubusercontent.com/80075982/120285728-66b30280-c272-11eb-909f-bd84c97f594a.png)
+![filter](https://user-images.githubusercontent.com/80075982/120285737-69adf300-c272-11eb-9fb6-198f35a82b1d.png)
 
 ## Summary
 HTML page looks clean, presentable and allows users to filter through the different sightings with the created filter search
 
-*   Drawback of this design is the difficulty for the user to know what parameter to use  
+Drawback of this design is the difficulty for the user to know what parameter to use  
     for the filtering. For example to pick a city, the user would have to go through the table a find the city desired for the analysis.
 
 ## Recommendations
